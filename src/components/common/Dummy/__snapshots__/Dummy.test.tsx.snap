@@ -1,0 +1,9 @@
+// Vitest Snapshot v1
+
+exports[`Dummy > renders children as expected 1`] = `<div />`;
+
+exports[`Dummy > renders children as expected 2`] = `
+<div>
+  children
+</div>
+`;
